@@ -259,5 +259,5 @@ If you have any questions, feedback, or suggestions, feel free to reach out! You
 
 If you have any questions, feedback, or suggestions, feel free to reach out! You can contact me via the following:
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)  
+- **Email**: [Baselinux2024@gmail.com](mailto:Baselinux2024@gmail.com)  
 - **LinkedIn**: [https://www.linkedin.com/in/basel-dawoud/](https://www.linkedin.com/in/basel-dawoud/)  
