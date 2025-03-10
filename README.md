@@ -242,5 +242,13 @@ Thank you for providing the compilation commands! Based on these, I'll update th
 
 If you have any questions, feedback, or suggestions, feel free to reach out! You can contact me via the following:
 
-- **Email**: [your-email@example.com](mailto:Baselinux2024@gmail.com)  
-- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/basel-dawoud)  
+Here’s a **Contact** section you can add to your README file. This section provides information on how users or contributors can reach out for questions, feedback, or collaboration.
+
+---
+
+## Contact
+
+If you have any questions, feedback, or suggestions, feel free to reach out! You can contact me via the following:
+
+- **Email**: [Baselinux2024@gmail.com](mailto:your-email@example.com)  
+- **LinkedIn**: [www.linkedin.com/in/basel-dawoud](https://www.linkedin.com/in/your-profile)  
