@@ -1,4 +1,4 @@
-# Clothing Shop Management System
+# Clothing Shop Management System - IPC In Linux
 
 This project is a **Clothing Shop Management System** implemented in C. It simulates a clothing shop's inventory management, customer ordering, and admin functionalities. The system uses **shared memory**, **semaphores**, **message queues**, and **signals** for inter-process communication and synchronization. Below is a detailed explanation of the overall flow and the role of each file in the system.
 
