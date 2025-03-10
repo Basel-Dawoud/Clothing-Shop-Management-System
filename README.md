@@ -238,10 +238,6 @@ Thank you for providing the compilation commands! Based on these, I'll update th
 
 ---
 
-Here’s a **Contact** section you can add to your README file. This section provides information on how users or contributors can reach out for questions, feedback, or collaboration.
-
----
-
 ## Contact
 
 If you have any questions, feedback, or suggestions, feel free to reach out! You can contact me via the following:
