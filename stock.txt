@@ -1,0 +1,31 @@
+# [(005) & (007)] [(Number of Categories) & (Number of Total Items)]
+# Format: [Category] [Name] [Brand] [Size] [Color] [Price] [StockQuantity] [Description]
+# Example: T-Shirt T-Shirt Nike M Blue 19.99 50 Comfortable cotton 
+
+
+#1
+T-Shirt T-Shirt Nike M Blue 19.99 50 Comfortable cotton t-shirt
+
+
+#2
+T-Shirt T-Shirt Adidas L White 22.99 40 Classic white t-shirt
+
+
+#3
+Jeans Jeans Levi's 32 Blue 49.99 30 Durable denim jeans with a modern fit
+
+
+#4
+Jeans Jeans Wrangler 34 Black 44.99 25 Classic black jeans, comfortable and stylish
+
+
+#5
+Jacket WinterJacket NorthFace L Black 89.99 20 Warm insulated jacket, ideal for cold weather
+
+
+#6
+Shoes Sneakers Nike 10 White 59.99 40 High-performance running sneakers with air cushioning
+
+
+#7
+Accessory Watch Rolex OneSize Silver 2499.99 5 Luxury wristwatch with a stainless steel band
