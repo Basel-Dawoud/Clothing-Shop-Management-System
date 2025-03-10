@@ -250,5 +250,5 @@ Here’s a **Contact** section you can add to your README file. This section pro
 
 If you have any questions, feedback, or suggestions, feel free to reach out! You can contact me via the following:
 
-- **Email**: [Baselinux2024@gmail.com](mailto:your-email@example.com)  
-- **LinkedIn**: [www.linkedin.com/in/basel-dawoud](https://www.linkedin.com/in/your-profile)  
+- **Email**: [Baselinux2024@gmail.com](mailto:Baselinux2024@gmail.com)  
+- **LinkedIn**: [www.linkedin.com/in/basel-dawoud](www.linkedin.com/in/basel-dawoud)  
